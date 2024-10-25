@@ -1,6 +1,7 @@
 # copilot-compiler-notebook
 ## Architecture Diagram
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/87e04631-88c2-403b-a2c3-fa3125cb0c31">
+<img width="1234" alt="image" src="https://github.com/user-attachments/assets/00462f26-e3bd-4928-bc0a-62a28cb6f61b">
+
 
 The diagram illustrates a workflow for processing and analyzing documents using AI technologies. Here's a breakdown of each component and their interactions:
 
